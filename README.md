@@ -22,12 +22,6 @@ This JavaScript code defines a puzzle-solving interface for a 3x3 grid with cell
 
 `solve` Function: Attempts to solve the puzzle by iterating through all possible permutations of cell values and checking if the sums are satisfied. If a valid solution is found, it updates the `positionVariables` object and the HTML to display the solved values.
 
-Event Listeners for Solving: An event listener is attached to a 'Solve' button. When clicked, it triggers the solve function to attempt to solve the puzzle.
-
-Event Listeners for Cell Selection: Event listeners are attached to each cell in the 3x3 grid to allow selecting cells and associating them with a specific circle ('m', 'n', or 'o'). These selections affect the sum conditions.
-
-Event Listeners for Circle Selection: Event listeners are attached to circle options ('mCircle', 'nCircle', 'oCircle') to determine which circle is currently selected for cell association.
-
 In summary, this JavaScript code represents a puzzle-solving interface for a 3x3 grid where cells' values need to be assigned in a way that satisfies predefined sum conditions among specific groups of cells. The user can interact with the interface to input values, associate cells with circles, and attempt to solve the puzzle using the provided solving mechanism.
 
 **Try it out via**
