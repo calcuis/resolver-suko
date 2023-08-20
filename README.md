@@ -1,4 +1,4 @@
-## suko-resolver
+## suko-solver
 
 This JavaScript code defines a puzzle-solving interface for a 3x3 grid with cells labeled from 'a' to 'i'. Each cell can be associated with a value between 1 and 9. The purpose of the code is to solve the puzzle by finding a combination of values for the cells such that specific sums of cell values within predefined groups are satisfied. Here's a breakdown of the code:
 
