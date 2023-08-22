@@ -1,5 +1,8 @@
 ## suko-solver
 
+**Try it out via**
+https://solver.calcuis.us
+
 This JavaScript code defines a puzzle-solving interface for a 3x3 grid with cells labeled from 'a' to 'i'. Each cell can be associated with a value between 1 and 9. The purpose of the code is to solve the puzzle by finding a combination of values for the cells such that specific sums of cell values within predefined groups are satisfied. Here's a breakdown of the code:
 
 `setCircleValue` Function: This function takes a `circleName` parameter and returns an event listener function that updates a designated circle's value and displays it. It listens for the 'change' event on specific input elements and updates the corresponding circle's value when the input changes.
@@ -24,5 +27,8 @@ This JavaScript code defines a puzzle-solving interface for a 3x3 grid with cell
 
 In summary, this JavaScript code represents a puzzle-solving interface for a 3x3 grid where cells' values need to be assigned in a way that satisfies predefined sum conditions among specific groups of cells. The user can interact with the interface to input values, associate cells with circles, and attempt to solve the puzzle using the provided solving mechanism.
 
-**Try it out via**
-https://suko.calcuis.us
+**References**
+
+garrypolley.com/2021/02/07/suko-solver
+
+github.com/jquery/jquery
