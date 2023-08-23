@@ -27,6 +27,8 @@ This JavaScript code defines a puzzle-solving interface for a 3x3 grid with cell
 
 In summary, this JavaScript code represents a puzzle-solving interface for a 3x3 grid where cells' values need to be assigned in a way that satisfies predefined sum conditions among specific groups of cells. The user can interact with the interface to input values, associate cells with circles, and attempt to solve the puzzle using the provided solving mechanism.
 
+[<img src="https://raw.githubusercontent.com/calcuis/suko-solver-js/master/demo.png" width="300" height="460">](https://github.com/calcuis/suko-solver-js/blob/main/demo.png)
+
 **References**
 
 garrypolley.com/2021/02/07/suko-solver
