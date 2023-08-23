@@ -1,0 +1,11 @@
+.solve-button {color: white;border-radius: 12px;padding: 5px;min-width: 100px;background: gray;}
+.suko-cell{height:100px;width:100px;background-color:#000}
+.circle-con{display:flex;align-items:center;justify-content:center;height:50px}
+.circle-con-four{background-color:#ffea00;border-radius:50px;height:50px;width:50px}
+.circle-con-three{background-color:orange;border-radius:50px;height:50px;width:50px}
+.circle-con-two{background-color:#88c97d;border-radius:50px;height:50px;width:50px}
+.circle-nums{float:left;text-align:left;width:60px;padding-top:115px}
+.w{position:relative;background-color:#fff;border-radius:50px;height:50px;width:50px;top:130px;left:80px;z-index:99;display:inline-block}
+.x{position:relative;background-color:#fff;border-radius:50px;height:50px;width:50px;top:130px;left:135px;z-index:99;display:inline-block}
+.y{position:relative;background-color:#fff;border-radius:50px;height:50px;width:50px;top:235px;left:-20px;z-index:99;display:inline-block}
+.z{position:relative;background-color:#fff;border-radius:50px;height:50px;width:50px;top:235px;left:35px;z-index:99;display:inline-block}
